@@ -1,0 +1,11 @@
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\bin\Debug\Kimlik Sorgulama.exe.config
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\bin\Debug\Kimlik Sorgulama.exe
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\bin\Debug\Kimlik Sorgulama.pdb
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik Sorgulama.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik Sorgulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik_Sorgulama.Form1.resources
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik_Sorgulama.Properties.Resources.resources
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik Sorgulama.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik Sorgulama.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik Sorgulama.exe
+C:\Users\hasan\source\repos\Kimlik Sorgulama\Kimlik Sorgulama\obj\Debug\Kimlik Sorgulama.pdb
